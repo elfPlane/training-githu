@@ -1,0 +1,25 @@
+##################
+# Species Traits #
+##################
+
+NekoBless = {
+	cost = 2
+	modification = no
+	initial = no
+	modifier = {
+		leader_age = 400
+		tile_resource_food_mult = 1.5
+		tile_resource_energy_mult = 1.5
+		tile_resource_minerals_mult = 1.5
+		tile_resource_engineering_research_mult = 0.2
+		tile_resource_physics_research_mult = 0.2
+		tile_resource_society_research_mult = 0.2
+		pop_environment_tolerance = 0.80
+		leader_skill_levels = 2
+		species_leader_exp_gain = 0.3
+		army_damage_mult = 0.5
+		pop_happiness = 0.3
+		pop_other_species_happiness = 0.1
+		category_psionics_research_speed_mult = 0.10
+	}
+}
